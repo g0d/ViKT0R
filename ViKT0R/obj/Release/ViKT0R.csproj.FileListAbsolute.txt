@@ -1,0 +1,9 @@
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\bin\Release\ViKT0R.exe.config
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\bin\Release\ViKT0R.exe
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\bin\Release\ViKT0R.pdb
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.VForm.resources
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.Properties.Resources.resources
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.csproj.GenerateResource.cache
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.csproj.CoreCompileInputs.cache
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.exe
+C:\Users\gdelaportas\Documents\Visual Studio 2017\Projects\ViKT0R\ViKT0R\obj\Release\ViKT0R.pdb
